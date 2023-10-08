@@ -1,6 +1,8 @@
+'use client';
+
 import { createContext, useCallback, useEffect, useState } from 'react';
 import { IWeatherContext, IWeatherProvider, TWeatherData } from './types';
-import { openWeatherAPI } from '../../services/api';
+import { openWeatherAPI } from '@/services/api';
 
 export const WeatherContext = createContext({} as IWeatherContext);
 
