@@ -17,8 +17,8 @@ Esse projeto consome uma API REST com ReactJS, a [Open Weather API](https://open
 
 ## Funcionalidades ⚡
 
-- Saber informações em tempo real sobre as condições climáticas do seu local atual.
-- Boas-vindas e papel de fundo dinâmicos. Mudam conforme a hora do dia.
+- Acessar informações em tempo real sobre as condições climáticas do seu local atual.
+- ~~Boas-vindas e papel de fundo dinâmicos. Mudam conforme a hora do dia.~~ Em correção.
 - Aplicativo leve e rápido.
 - Apoiar o criador do site.
 
